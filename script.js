@@ -1,4 +1,4 @@
-for (var = i; i < 30; i++){
+for (var i = 0; i < 30; i++){
   if(i % 5 === 0 && i % 3 === 0){
     console.log('fizzbuzz');
     }else if (i % 5 === 0 ){
@@ -7,5 +7,16 @@ for (var = i; i < 30; i++){
     console.log('fizz');{
     }else {
     console.log(i);
-          }
-      }
+  }
+ }
+ function isPal(word) {
+  var ogWord = word;
+  if)ogWord === word.split(''),reverse().join('')) {
+    console.log('ya it is')
+  }else {
+  console.log('no its not');
+}
+
+  }
+}
+// some more wljewfljfjwjfeljfwf
